@@ -46,7 +46,15 @@ cout<<z<<endl;
 return 0;*/
 //$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 //int a,b,z;cout<<"ingrese a"<<endl;cin>>a;cout<<"ungrese b"<<endl;cin>>b; z=(a>b)?a:b;cout<<z;
-int score[10];
-score[3] =10;
-cout<<score<<endl;
+int score[4];
+int c=4;
+score[0] =c++;
+score[1] =c++;
+score[2] =c++;
+score[3] =c++;
+c=4;
+cout<<score[c--]<<endl;
+cout<<score[c--]<<endl;
+cout<<score[c--]<<endl;
+cout<<score[c--]<<endl;
 }
