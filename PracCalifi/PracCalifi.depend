@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1495815536 source:d:\cs_progra\praccalifi\main.cpp
+	<iostream>
+	"PERSONA.h"
+	"BIRTHDAY.h"
+
+1495815707 d:\cs_progra\praccalifi\include\persona.h
+	<iostream>
+	"BIRTHDAY.h"
+
+1495815512 d:\cs_progra\praccalifi\include\birthday.h
+	<iostream>
+
+1495811778 source:d:\cs_progra\praccalifi\src\arreglopersona.cpp
+	"ARREGLOPERSONA.h"
+
+1495811778 d:\cs_progra\praccalifi\include\arreglopersona.h
+
+1495816140 source:d:\cs_progra\praccalifi\src\birthday.cpp
+	"BIRTHDAY.h"
+
+1495816284 source:d:\cs_progra\praccalifi\src\conserge.cpp
+	"CONSERGE.h"
+
+1495816178 d:\cs_progra\praccalifi\include\conserge.h
+	"PERSONA.h"
+	<iostream>
+
+1495811518 source:d:\cs_progra\praccalifi\src\gerente.cpp
+	"GERENTE.h"
+
+1495811518 d:\cs_progra\praccalifi\include\gerente.h
+
+1495815462 source:d:\cs_progra\praccalifi\src\persona.cpp
+	"PERSONA.h"
+
+1495811356 source:d:\cs_progra\praccalifi\src\temp.cpp
+	"TEMP.h"
+
+1495811356 d:\cs_progra\praccalifi\include\temp.h
+

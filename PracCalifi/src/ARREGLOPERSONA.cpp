@@ -1,0 +1,11 @@
+#include "ARREGLOPERSONA.h"
+
+ARREGLOPERSONA::ARREGLOPERSONA()
+{
+    //ctor
+}
+
+ARREGLOPERSONA::~ARREGLOPERSONA()
+{
+    //dtor
+}
